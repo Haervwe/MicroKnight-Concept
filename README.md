@@ -13,7 +13,11 @@ Implemented mechanics:
 
 Behaivoral tree for two variants of enemy, melee and range.
 
-enemies movent to follow and attack the player based on range.
+Enemies movent to follow and attack the player based on range.
+
+Health collectables.
+
+Enemies drop health on death
 
 health system for player and enemies.
 
