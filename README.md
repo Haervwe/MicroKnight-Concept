@@ -45,6 +45,8 @@ Character Laser CD in HUD
 
 Enemy HealthBars
 
+Floating numbers on Damage and Healing
+
 Animations:
 
 All main Chararacter Animations seted up with states for event triggers and animations blueprints
