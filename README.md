@@ -1,13 +1,15 @@
 # MicroKnight
 
 
-First incrusion in Unreal Engine, a simple, geometrical, low poly, hack and slash game from scratch
+First incrusion in Unreal Engine, a simple, geometrical, low poly, hack and slash game made from scratch
 
 Assets:
 
 MainCharacter and animations for moving dashin and attaking
 
 Basic Enemy and animations for moving and attaking
+
+
 
 Implemented mechanics:
 
@@ -35,6 +37,12 @@ Character Hover with Charging
 
 Character and enemy death
 
+Character hit Combos and Damage Multiplier based on corrent combo
+
+
+
+
+
 UI:
 
 Character HUD Health Bar
@@ -47,11 +55,16 @@ Enemy HealthBars
 
 Floating numbers on Damage and Healing
 
+Character Curretn and Max Cobo text in HUD
+
+
+
 Animations:
 
 All main Chararacter Animations seted up with states for event triggers and animations blueprints
 
 All Enemy "Dummy" animations seted up with states for event triggers and animations blueprints
 
+VXF For dashing, laser attacks, fireballs
 
 Developed with Unreal Engine 5
