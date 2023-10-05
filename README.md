@@ -57,7 +57,7 @@ Enemy HealthBars
 
 Floating numbers on Damage and Healing
 
-Character Curretn and Max Cobo text in HUD
+Character Current and Max Combo text in HUD
 
 
 
