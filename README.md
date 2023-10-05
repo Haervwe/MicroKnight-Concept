@@ -39,6 +39,8 @@ Character and enemy death
 
 Character hit Combos and Damage Multiplier based on corrent combo
 
+Spawner for enemies can spawn simgle multiple actors and can be seted to continously spawn enemies until destroyed
+
 
 
 
