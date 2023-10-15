@@ -7,7 +7,11 @@ Assets:
 
 MainCharacter and animations for moving dashin and attaking
 
-Basic Enemy and animations for moving and attaking
+2 Basic Enemy and animations for moving and attaking
+
+2 enemy Spawners
+
+Trees and grass in low poly style
 
 
 
@@ -59,6 +63,10 @@ Floating numbers on Damage and Healing
 
 Character Current and Max Combo text in HUD
 
+Pause menu
+
+Restart Game on death menu
+
 
 
 Animations:
@@ -67,6 +75,8 @@ All main Chararacter Animations seted up with states for event triggers and anim
 
 All Enemy "Dummy" animations seted up with states for event triggers and animations blueprints
 
-VXF For dashing, laser attacks, fireballs
+VXF For dashing, laser attacks, fireballs, Smoke Puff fx for destroyed eneies, hovering, fire words,
+
+camera animated to guve an smoth dynamic following effect
 
 Developed with Unreal Engine 5
